@@ -1,0 +1,28 @@
+body{
+   
+}
+h1{
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 40px;
+    margin:0;
+    padding:0;
+}
+.header{
+    display:block;
+    width:100%;
+    min-height:100%;
+    background-color: azure;
+    text-align:center;
+    margin:0;
+    padding:0;
+    background-image: url("../images/background.jpg")
+}
+.content{
+    display:block;
+    width:50%;
+    min-height:200px;
+    background-color: green;
+    border:50px;
+    border-block-color: white;
+    float:right;
+}
