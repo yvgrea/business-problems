@@ -35,7 +35,7 @@ p{
     color:purple;
     font-size: 15px;
 }
-.nav{
+.navi{
     top:70px;
     list-style-type: none;
     background-color: brown;
@@ -43,10 +43,9 @@ p{
     width: 100%;
     margin:0;
     padding:25px;
-    text-decoration-style: none;
-    
+    text-decoration-style: none;  
 }
-a{
+.navi a{
     display:block;
     block-size:10%;
     margin:0;
@@ -55,17 +54,17 @@ a{
     color: aquamarine;
     text-decoration-style: none;
 }
-.nav a:hoover{
+a:hoover{
     background-color: chartreuse;
     color: cornflowerblue;
 }
-.nav ol {
+.navi {
     float: left;  
     text-decoration-style: none;
     text-align:justify;
     width:auto;
 }
-/*.nav ol li{
+.navi{
     list-style-type: none;
     float: left;  
     width:20%;
@@ -73,9 +72,11 @@ a{
     text-align:center;
     display:block;
     block-size:0%;
-}*/
+}
 .footer{
     background-color:goldenrod:
     width:100%;
     height:66px;
+    display:block;
+
 }
