@@ -61,3 +61,9 @@ p{
     display:block;
 
 }
+th, td {
+    padding: 25px;
+    background-color: azure;
+    align-self: auto;
+  }
+  p { text-indent: 50px; } ​
