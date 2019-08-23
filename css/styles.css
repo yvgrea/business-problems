@@ -44,7 +44,7 @@ p{
     float:left;
 }
 
-.navi{
+.navi,a{
     top:50px;
     list-style-type: none;
     margin:0;
